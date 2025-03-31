@@ -3,6 +3,7 @@
 A platform to schedule, customize, and manage meetings with conflict resolution, availability settings, and secure participation.  
 
 🔗 *Live Demo:* [https://meeting-project-two.vercel.app/] 
+
 *Demo Credentials*:  
 - *User User*  
 Username: User  
