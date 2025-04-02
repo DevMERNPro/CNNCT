@@ -7,7 +7,7 @@ A platform to schedule, customize, and manage meetings with conflict resolution,
 *Demo Credentials*:  
 - *User User*  
 Username: User  
-Password: 23456789  
+Password: 3456789  
 
 ---
 
